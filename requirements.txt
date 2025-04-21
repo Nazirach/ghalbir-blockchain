@@ -1,0 +1,12 @@
+ecdsa==0.18.0
+flask==2.0.1
+cryptography==36.0.1
+web3==5.24.0
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+fastapi
+uvicorn
+firebase-admin
+python-dotenv
